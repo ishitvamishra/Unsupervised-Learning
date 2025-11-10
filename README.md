@@ -1,2 +1,2 @@
 # Unsupervised-Learning
-Here you can find unsupervised leaning algorithm
+Here you can find unsupervised learning algorithm
